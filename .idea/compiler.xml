@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="hospital" />
         <module name="Hospital" />
+        <module name="HospitalQueue" />
       </profile>
     </annotationProcessing>
   </component>
